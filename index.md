@@ -1,6 +1,6 @@
 ---
-title:  ”Knowledge Archive"
-description: "A personal collection of notes, projects, and mathematical explorations."
+layout: default
+title: Home
 ---
 
 # Welcome to My Knowledge Archive

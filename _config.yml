@@ -1,0 +1,5 @@
+title: My Portfolio
+description: "A personal knowledge archive and portfolio"
+baseurl: "" # GitHub Pages で /my-portfolio の場合は "/my-portfolio"
+url: "https://your-username.github.io" 
+theme: minima
