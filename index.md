@@ -3,31 +3,32 @@ layout: default
 title: Home
 ---
 
-# Welcome to My Knowledge Archive
+# Raian Suzuki
 
-, a physics student with a passion for mathematical physics, deep learning, and exploring complex concepts in a way that's approachable.  
+Welcome to my personal knowledge archive.
 
-This site serves two purposes:
+This website contains my notes and articles on mathematical physics, machine learning, and mathematics.
 
-1. **Portfolio** – Showcasing my research, projects, and coding experiments.  
-2. **Knowledge Archive** – A place to keep notes, ideas, and tutorials for myself and others.
-
----
-
-## Contents
-
-- **Mathematics & Physics** – Notes on Fourier transforms, distributions, quantum probability, and more.  
-- **Machine Learning & Programming** – Code examples, model explorations, and tutorials.  
-- **English Learning** – Progress logs and resources for improving academic English.  
-- **Personal Projects** – Experiments, small apps, or simulations I’ve been working on.
+I write articles in both English and Japanese.
 
 ---
 
-## How to Navigate
+## 🌍 Choose Language
 
-- The navigation menu on the top (or the sidebar if using a theme) lists categories and individual pages.  
-- Click on any article to read in detail.  
+- 🇬🇧 [Enter English Site](/my-portfolio/en/)
+- 🇯🇵 [日本語サイトはこちら](/my-portfolio/ja/)
 
 ---
 
-Thank you for visiting! I hope this site can inspire curiosity and provide useful insights.
+## About this site
+
+This website serves as:
+- A research notebook
+- A learning archive
+- A portfolio of my work
+
+I mainly write about:
+- Mathematical Physics  
+- Deep Learning Theory  
+- Probability and Statistics  
+- Mathematics for Machine Learning  
